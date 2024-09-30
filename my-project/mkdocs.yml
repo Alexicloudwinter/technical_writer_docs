@@ -1,0 +1,6 @@
+site_name: technical_writer_docs
+theme:
+  name: material
+nav:
+  - Главная: index.md
+  - О проекте: about.md
