@@ -1,4 +1,4 @@
-site_name: technical_writer_docs
+site_name: Parawriter docs
 theme:
   name: material
 nav:
